@@ -1,4 +1,4 @@
-# FormsCrossFieldValidation
+# Angular Cross Control Validation
 
 <div style="text-align:center"><img src=".github/angular-forms-validation.gif" /></div>
 
